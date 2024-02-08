@@ -1,8 +1,10 @@
 {
   "name": "o11y-junit-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "bin": "bin.js",
+  "bin": {
+    "o11y-junit-uploader": "index.mjs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
