@@ -1,8 +1,12 @@
 {
   "name": "o11y-junit-uploader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "bin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattonem/bstack-o11y-junit-uploader.git"
+  },
   "bin": {
     "o11y-junit-uploader": "bin.js"
   },
